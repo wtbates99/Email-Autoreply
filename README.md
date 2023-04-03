@@ -11,7 +11,7 @@ The overall workflow is as follows:
 3. Emails will be sent as soon as the button is clicked
 4. You will recieve an email once your finished showing the address and subject lines to the emails you choose to manually respond to
 
-Change the automated message in the code
+Change the automated message in ***line 27***
 
 
 ## pip dependencies install: 
